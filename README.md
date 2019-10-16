@@ -18,7 +18,7 @@ Es necesario revisar varias veces toda la lista hasta que no se necesiten más i
 			}
 		}
     
-### Ejercicios
+## Ejercicios
 
 1. Hacer un programa en Java que llene un arreglo de longitud 10 de numeros pseudo-aleatorios y despues 
    ordene los elementos de menor a mayor.
